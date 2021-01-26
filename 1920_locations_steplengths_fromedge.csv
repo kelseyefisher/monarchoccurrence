@@ -1,0 +1,82 @@
+monarchrunid,uniqueid,order,date,release,spatialconfig,timecdt,duration,durationsec,behaviorclassification,surface,locatione,locationn,landcoverclassification,step classification,turnangle,steplength,bearing,crosswithin,crosswithinexit,crossfrom,crossto,1ststep
+19079a,104,1,7/20/2019,edge,mixed,10:56:00,0:00:45,45,release,corn,525688.5712,4751778.489,crop,crop,,181.8932197,66.66914483,cross,cross,crop,exit,exit
+19079a,105,2,7/20/2019,edge,mixed,10:57:15,0:00:01,1,fly ,air,525855.5916,4751850.526,rich,exit,,,,,,,,
+19082a,106,1,7/21/2019,edge,mixed,10:17:00,0:02:17,137,release,corn,525680.5976,4751933.931,crop,crop,,1.777720124,91.38602177,within,within,crop,crop,crop
+19082a,107,2,7/21/2019,edge,mixed,10:19:19,0:10:39,639,rest,bare ground,525682.3748,4751933.888,crop,crop,-139.8732604,0.638214235,311.5127614,within,within,crop,crop,
+19082a,108,3,7/21/2019,edge,mixed,10:30:00,0:22:58,1378,rest,bare ground,525681.8969,4751934.311,crop,crop,-168.6739053,0.928551996,142.8388561,cross,cross,crop,rich,
+19082a,109,4,7/21/2019,edge,mixed,10:53:00,0:30:00,1800,rest,grass,525682.4578,4751933.571,rich,rich,,,,,,,,
+19090a,110,1,7/21/2019,edge,mixed,11:54:00,0:03:22,202,release,grass,525682.6181,4751934.293,rich,rich,,0.603091875,135.0738953,within,within,rich,rich,rich
+19090a,111,2,7/21/2019,edge,mixed,11:57:24,0:30:00,1800,rest,grass,525683.044,4751933.866,rich,rich,,,,,,,,
+19091a,112,1,7/22/2019,edge,mixed,9:36:00,0:01:32,92,release,grass,525682.6757,4751941.967,rich,rich,,2.351496385,345.1541223,cross,cross,rich,crop,crop
+19091a,113,2,7/22/2019,edge,mixed,9:37:34,0:30:00,1800,rest,corn,525682.0732,4751944.24,crop,crop,,,,,,,,
+19098a,114,1,7/22/2019,edge,mixed,10:27:00,0:03:48,228,release,veg wild bergamot,525684.6381,4751916.542,rich,rich,,14.74454286,171.1752509,within,within,rich,rich,rich
+19098a,115,2,7/22/2019,edge,mixed,10:31:01,0:14:44,884,rest,grass,525686.9001,4751901.972,rich,rich,,,,,,,,
+19105a,116,1,7/22/2019,edge,mixed,12:07:00,0:06:46,406,release,wild bergamot,525684.6871,4751916.403,rich,rich,,1.008047638,118.6295117,within,within,rich,rich,rich
+19105a,117,2,7/22/2019,edge,mixed,12:13:48,0:01:32,92,rest,grass,525685.5719,4751915.92,rich,rich,147.4171719,3.394076016,266.0466836,cross,cross,rich,crop,
+19105a,118,3,7/22/2019,edge,mixed,12:15:22,0:14:16,856,rest,corn,525682.1859,4751915.686,crop,crop,-11.31155096,2.525813115,254.7351326,within,within,crop,crop,
+19105a,119,4,7/22/2019,edge,mixed,12:29:40,0:03:33,213,rest,corn,525679.7492,4751915.021,crop,crop,-146.7651391,7.591107735,107.9699935,cross,cross,crop,rich,
+19105a,120,5,7/22/2019,edge,mixed,12:33:15,0:00:10,10,rest,grass,525686.97,4751912.679,rich,rich,74.02142456,479.1393795,181.9914181,within,cross,rich,exit,
+19105a,121,7,7/22/2019,edge,mixed,12:36:59,0:00:01,1,fly,air,525670.32,4751433.829,rich,exit,,,,,,,,
+19106a,122,1,7/23/2019,edge,mixed,9:10:00,0:15:00,900,release,grass,525682.0456,4751962.849,rich,rich,,10.63418237,190.0503022,cross,cross,rich,crop,crop
+19106a,123,2,7/23/2019,edge,mixed,9:25:02,0:00:02,2,rest,corn,525680.1898,4751952.378,crop,crop,-85.81733483,8.667352692,104.2329674,cross,cross,crop,rich,
+19106a,124,3,7/23/2019,edge,mixed,9:25:06,0:00:02,2,rest,wild bergamot,525688.5911,4751950.247,rich,rich,-15.82020096,5.090453148,88.4127664,within,within,rich,rich,
+19106a,125,4,7/23/2019,edge,mixed,9:25:10,0:00:02,2,rest,wild bergamot,525693.6796,4751950.388,rich,rich,,,,,,,,
+19108a,126,1,7/23/2019,edge,mixed,9:39:00,0:02:08,128,release,corn,525681.3918,4751961.664,crop,crop,,24.80712848,178.8349324,within,within,crop,crop,crop
+19108a,127,2,7/23/2019,edge,mixed,9:41:10,0:00:32,32,rest,corn,525681.8962,4751936.862,crop,crop,-16.3933204,18.46110245,162.4416119,cross,cross,crop,rich,
+19108a,128,3,7/23/2019,edge,mixed,9:41:44,0:00:15,15,rest,wild bergamot,525687.4655,4751919.261,rich,rich,-25.22189084,13.40393295,137.2197211,within,within,rich,rich,
+19108a,129,4,7/23/2019,edge,mixed,9:42:01,0:00:15,15,rest,wild bergamot,525696.5693,4751909.423,rich,rich,39.28636454,150.5057485,176.5060856,within,cross,rich,exit,
+19108a,130,6,7/23/2019,edge,mixed,9:43:01,0:00:01,1,fly,air,525705.7415,4751759.197,rich,exit,,,,,,,,
+19119a,131,1,7/23/2019,edge,mixed,10:17:00,0:06:50,410,release,wild bergamot,525684.5597,4751964.426,rich,rich,,206.4773275,174.8444338,within,cross,rich,exit,exit
+19119a,132,6,7/23/2019,edge,mixed,10:24:29,0:00:01,1,fly,air,525703.1138,4751758.784,rich,exit,,,,,,,,
+19123a,133,1,7/23/2019,edge,mixed,11:34:00,0:00:30,30,release,grass,525682.1261,4751962.994,rich,rich,,2.20573947,136.0121097,within,within,rich,rich,rich
+19123a,134,2,7/23/2019,edge,mixed,11:34:33,0:13:12,792,rest,grass,525683.658,4751961.407,rich,rich,10.9877078,55.16837892,146.9998175,within,within,rich,rich,
+19123a,135,4,7/23/2019,edge,mixed,11:47:50,0:04:52,292,rest,wild bergamot,525713.705,4751915.139,rich,rich,-30.54941329,9.968053228,116.4504042,within,within,rich,rich,
+19123a,136,5,7/23/2019,edge,mixed,11:52:44,0:00:01,1,rest,grass,525722.6296,4751910.699,rich,rich,,,,,,,,
+19127a,137,1,7/23/2019,edge,mixed,12:10:00,0:07:06,426,release,wild bergamot,525684.8503,4751964.461,rich,rich,,0.156220006,207.1555393,within,within,rich,rich,rich
+19127a,138,2,7/23/2019,edge,mixed,12:17:08,0:18:15,1095,rest,grass,525684.779,4751964.322,rich,rich,-9.065667304,0.588067819,198.089872,within,within,rich,rich,
+19127a,139,3,7/23/2019,edge,mixed,12:35:25,0:11:43,703,rest,grass,525684.5964,4751963.763,rich,rich,,,,,,,,
+19085a,140,1,7/23/2019,edge,mixed,13:01:00,0:00:25,25,release,corn,525681.4528,4751961.651,crop,crop,,0.529529187,119.7797751,cross,cross,crop,rich,rich
+19085a,141,2,7/23/2019,edge,mixed,13:01:26,0:04:39,279,rest,grass,525681.9124,4751961.388,rich,rich,93.94695034,8.106334857,213.7267255,cross,cross,rich,crop,
+19085a,142,3,7/23/2019,edge,mixed,13:06:30,0:01:00,60,rest,corn,525677.4115,4751954.646,crop,crop,175.0036487,20.5384598,28.73037414,cross,cross,crop,rich,
+19085a,143,5,7/23/2019,edge,mixed,14:10:00,0:00:05,5,oviposit,common milkweed,525687.2841,4751972.656,rich,rich,,,,,,,,
+19125a,144,1,7/23/2019,edge,mixed,13:35:00,0:09:07,547,release,wild bergamot,525684.8531,4751963.942,rich,rich,,9.55524257,353.670668,within,within,rich,rich,rich
+19125a,145,2,7/23/2019,edge,mixed,13:44:24,0:00:01,1,rest,vegetative wild bergamot,525683.7997,4751973.439,rich,rich,127.0404903,49.66415767,120.7111583,within,within,rich,rich,
+19125a,146,4,7/23/2019,edge,mixed,13:45:26,0:03:17,197,rest,grass,525726.4986,4751948.075,rich,rich,8.420222426,10.28837312,129.1313807,within,within,rich,rich,
+19125a,147,5,7/23/2019,edge,mixed,13:48:45,0:00:40,40,rest,wild bergamot,525734.4793,4751941.582,rich,rich,-6.949538538,8.311927996,122.1818422,within,within,rich,rich,
+19125a,148,6,7/23/2019,edge,mixed,13:49:26,0:00:01,1,rest,wild bergamot,525741.5142,4751937.155,rich,rich,-8.164600109,85.72238553,114.017242,cross,cross,rich,exit,
+19125a,149,7,7/23/2019,edge,mixed,13:49:44,0:00:01,1,fly,air,525819.815,4751902.265,poor,exit,,,,,,,,
+19158a,294,1,8/1/2019,edge,mixed,9:51:00,0:00:30,30,release,corn,525539.8245,4751806.784,crop,crop,,0.564808472,202.7150652,cross,cross,crop,rich,rich
+19158a,295,2,8/1/2019,edge,mixed,9:51:32,0:30:00,1800,rest,grass,525539.6064,4751806.263,rich,rich,,,,,,,,
+19172a,356,1,8/4/2019,edge,mixed,11:08:00,0:06:58,418,release,grass,525689.5184,4751768.766,rich,rich,,0.453459689,167.091565,within,within,rich,rich,rich
+19172a,357,2,8/4/2019,edge,mixed,11:15:00,0:01:14,74,rest,grass,525689.6197,4751768.324,rich,rich,-162.7195767,3.207332887,4.371988288,within,within,rich,rich,
+19172a,358,3,8/4/2019,edge,mixed,11:16:30,0:00:20,20,rest,grass,525689.8642,4751771.522,rich,rich,159.2108935,2.567685629,163.5828818,within,within,rich,rich,
+19172a,359,4,8/4/2019,edge,mixed,11:16:57,0:30:00,1800,rest,grass,525690.5899,4751769.059,rich,rich,,,,,,,,
+19173a,360,1,8/4/2019,edge,mixed,12:10:00,0:01:38,98,release,grass,525690.0647,4751768.535,rich,rich,,0.368310793,192.1947155,within,within,rich,rich,rich
+19173a,361,2,8/4/2019,edge,mixed,12:11:40,0:00:18,18,rest,grass,525689.9869,4751768.175,rich,rich,-128.571142,0.774309815,63.62357346,within,within,rich,rich,
+19173a,362,3,8/4/2019,edge,mixed,12:12:00,0:12:58,778,rest,grass,525690.6806,4751768.519,rich,rich,80.41643508,0.51888543,144.0400085,within,within,rich,rich,
+19173a,363,4,8/4/2019,edge,mixed,12:25:00,0:01:30,90,rest,grass,525690.9853,4751768.099,rich,rich,-64.68442699,14.11376335,79.35558156,within,within,rich,rich,
+19173a,364,5,8/4/2019,edge,mixed,12:26:32,0:00:26,26,rest,vegetative plant,525704.8562,4751770.706,rich,rich,54.82918384,1.167905069,134.1847654,within,within,rich,rich,
+19173a,365,6,8/4/2019,edge,mixed,12:27:00,0:00:18,18,feed,wild bergamot,525705.6937,4751769.892,rich,rich,-50.60854511,12.55794417,83.5762203,within,within,rich,rich,
+19173a,366,7,8/4/2019,edge,mixed,12:27:20,0:00:20,20,feed,pale purple coneflower,525718.1728,4751771.297,rich,rich,-39.07787541,61.75074938,44.49834489,cross,cross,rich,poor,
+19173a,367,8,8/4/2019,edge,mixed,12:28:00,0:16:59,1019,rest,grass,525761.4532,4751815.342,poor,poor,-63.9494603,31.49345924,340.5488846,cross,cross,poor,rich,
+19173a,368,9,8/4/2019,edge,mixed,12:45:55,0:00:31,31,oviposit,common milkweed,525750.9658,4751845.038,rich,rich,-103.1212722,3.213434922,237.4276124,within,within,rich,rich,
+19173a,369,10,8/4/2019,edge,mixed,12:46:28,0:09:45,585,oviposit,common milkweed,525748.2578,4751843.308,rich,rich,136.1209965,5.710926406,13.54860881,within,within,rich,rich,
+19173a,370,11,8/4/2019,edge,mixed,12:56:15,0:00:58,58,oviposit,common milkweed,525749.5957,4751848.86,rich,rich,-76.19218116,6.696052332,297.3564276,within,within,rich,rich,
+19173a,371,12,8/4/2019,edge,mixed,12:57:30,0:03:25,205,oviposit,common milkweed,525743.6485,4751851.937,rich,rich,-75.53297773,3.562786921,221.8234499,within,within,rich,rich,
+19173a,372,13,8/4/2019,edge,mixed,13:00:57,0:00:01,1,oviposit,common milkweed,525741.2727,4751849.282,rich,rich,13.91286849,1.623439217,235.7363184,within,within,rich,rich,
+19173a,373,14,8/4/2019,edge,mixed,13:01:00,0:01:00,60,oviposit,common milkweed,525739.931,4751848.368,rich,rich,121.182414,45.29848813,356.9187324,within,within,rich,rich,
+19173a,374,15,8/4/2019,edge,mixed,13:02:20,0:00:06,6,rest,vegetation,525737.4961,4751893.601,rich,rich,25.26460735,11.85338248,22.18333979,within,within,rich,rich,
+19173a,375,16,8/4/2019,edge,mixed,13:02:28,0:00:27,27,rest,vegetation,525741.9716,4751904.577,rich,rich,42.25307513,1.179571876,64.43641492,within,within,rich,rich,
+19173a,376,17,8/4/2019,edge,mixed,13:03:57,0:03:13,193,oviposit,common milkweed,525743.0357,4751905.086,rich,rich,-124.748844,1.31443395,299.6875709,within,within,rich,rich,
+19173a,377,18,8/4/2019,edge,mixed,13:07:12,0:02:48,168,oviposit,common milkweed,525741.8938,4751905.737,rich,rich,,,,,,,,
+19197a,582,1,8/9/2019,edge,mixed,9:11:00,0:09:20,560,release,corn,525684.051,4751908.701,crop,crop,,33.59971815,161.883208,cross,cross,crop,rich,rich
+19197a,583,2,8/9/2019,edge,mixed,9:20:47,0:01:57,117,feed,greyheaded coneflower,525694.499,4751876.767,rich,rich,-16.39479727,3.849460352,145.4884107,within,within,rich,rich,
+19197a,584,3,8/9/2019,edge,mixed,9:22:46,0:00:26,26,feed,wild bergamot,525696.68,4751873.595,rich,rich,27.06058253,34.03034848,172.5489933,within,within,rich,rich,
+19197a,585,4,8/9/2019,edge,mixed,9:23:26,0:30:00,1800,feed,wild bergamot,525701.093,4751839.852,rich,rich,,,,,,,,
+19198a,586,1,8/9/2019,edge,mixed,10:11:00,0:31:05,1865,release,grass,525683.888,4751909.222,rich,rich,,29.40581388,10.50439144,within,within,rich,rich,rich
+19198a,587,2,8/9/2019,edge,mixed,10:42:12,0:00:48,48,rest,grass,525689.249,4751938.135,rich,rich,52.62262889,99.8552937,63.12702033,within,within,rich,rich,
+19198a,588,3,8/9/2019,edge,mixed,10:43:40,0:00:42,42,feed,greyheaded coneflower,525778.321,4751983.271,rich,rich,109.3264205,1919.633973,172.4534408,cross,cross,rich,exit,
+19198a,589,8,8/9/2019,edge,mixed,11:12:06,0:28:54,1734,rest,tree,526030.43,4750080.264,exit,exit,,,,,,,,
+19200a,590,1,8/9/2019,edge,mixed,13:02:00,0:04:00,240,release,grass,525684.204,4751909.172,rich,rich,,5.808524082,187.8566828,cross,cross,rich,crop,crop
+19200a,591,2,8/9/2019,edge,mixed,13:06:07,0:02:23,143,rest,corn,525683.41,4751903.418,crop,crop,-10.65506393,19.66344832,177.2016189,within,cross,crop,exit,
+19200a,592,3,8/9/2019,edge,mixed,13:08:49,0:00:01,1,fly,air,525684.37,4751883.778,crop,exit,,,,,,,,
